@@ -27,3 +27,5 @@
 - Allow users to customize password length.
 - Add toggles for character types (uppercase, lowercase, numbers, symbols).
 - Implement dark mode.
+
+### This project is a great way to practice JavaScript logic and DOM manipulation while building a useful tool. Contributions and suggestions are welcome! 🚀
